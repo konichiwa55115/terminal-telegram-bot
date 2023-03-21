@@ -31,7 +31,7 @@ if __name__ == "__main__":
         api_id=17983098 ,
         api_hash="ee28199396e0925f1f44d945ac174f64",
         plugins=plugins,
-        bot_token="5714654934:AAFm0UBvzuU1X-Adg7QThWCzpoKBww9SNXE",
+        tg_bot_token="5714654934:AAFm0UBvzuU1X-Adg7QThWCzpoKBww9SNXE",
         workers=TG_UPDATE_WORKERS_COUNT
     )
     #
